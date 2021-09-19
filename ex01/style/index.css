@@ -1,0 +1,35 @@
+header h3{
+    color: #CD3B38;
+    text-align: center;
+}
+#container {
+    width: 992px;
+    display: block;
+    margin: 0 auto;
+}
+#gallery {
+    display: block;
+    padding: 25px 0;
+}
+.card {
+    display: inline-block;
+    width: 33%;
+}
+.card img {
+    width: 306px;
+    display: block;
+    margin: 0 auto;
+}
+.card h1 {
+    font-weight: 100;
+    font-size: 16px;
+    color: cornflowerblue;
+    display: block;
+    margin: 15px 20px;
+}
+.card p {
+    display: block;
+    margin: 0px 20px;
+    text-align: justify;
+
+}
